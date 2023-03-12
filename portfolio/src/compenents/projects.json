@@ -1,0 +1,68 @@
+[
+    {   
+        "title": "Employee Profile Generator",
+        "deployedLink": "https://github.com/ra724619/employee-profile-generator",
+        "githubLink": "https://github.com/ra724619/employee-profile-generator",
+        "src": "https://github.com/ra724619/employee-profile-generator/blob/main/sample/teamhtml.png"
+    },
+    {   
+        "title": "README generator",
+        "deployedLink": "https://github.com/ra724619/readme-generator",
+        "githubLink":"https://github.com/ra724619/readme-generator",
+        "src":"https://github.com/ra724619/readme-generator/blob/main/assets/demo/demo%20screen%20terminal.png"
+        },
+    {   
+        "title": "Schedule Planner",
+        "deployedLink": "https://ra724619.github.io/planner-app/",
+        "githubLink": "https://github.com/ra724619/planner-app",
+        "src": "https://user-images.githubusercontent.com/117188356/215113804-9ea17f60-aad6-405c-87d7-bbfb9b2592a3.png"
+    },
+    {   
+        "title": "Munchify, One-stop recipe and playlist generator (With Sebastian, Sam, and Stuart)",
+        "deployedLink": "https://stuart540.github.io/munchify/",
+        "githubLink": "https://github.com/ra724619/munchify",
+        "src": "https://github.com/ra724619/munchify/blob/main/server/public/assets/Image/munchify-logo-gold.jpeg"
+    },
+    {   
+        "title": "City Weather Forecast",
+        "deployedLink": "https://ra724619.github.io/city-weather-forecast/",
+        "githubLink": "https://github.com/ra724619/city-weather-forecast",
+        "src": "https://user-images.githubusercontent.com/117188356/220157144-ce1b4223-f7da-4093-8efe-d53fd75c5a81.gif"
+    },
+    {   
+        "title": "CSS Portfolio",
+        "deployedLink": "https://ra724619.github.io/lernantino-css-1/",
+        "githubLink": "https://github.com/ra724619/lernantino-css-1",
+        "src": "https://user-images.githubusercontent.com/117188356/205519154-f1930487-5230-4b81-9a12-0c3f2b3c6730.png"
+    },
+    {   
+        "title": "Bootstrap Portfolio",
+        "deployedLink": "https://ra724619.github.io/bootstrap-portfolio/",
+        "githubLink": "https://github.com/ra724619/bootstrap-portfolio",
+        "src": "https://user-images.githubusercontent.com/117188356/207308583-6a2cb727-6f4a-4ec0-89d5-ad84accc52cd.png"
+    },
+    {   
+        "title": "HTML webpage refactor",
+        "deployedLink": "https://ra724619.github.io/horiseon-refactor-1/",
+        "githubLink": "https://github.com/ra724619/horiseon-refactor-1",
+        "src": "https://postimg.cc/hQgfTbVb"
+    },
+    {   
+        "title": "JavaScript Console Finances Calculator",
+        "deployedLink": "https://ra724619.github.io/Console-Finances/",
+        "githubLink": "https://github.com/ra724619/Console-Finances",
+        "src": "https://user-images.githubusercontent.com/117188356/208250853-3eb31f3b-88c3-49ab-b6e8-9464f59df41e.png"
+    },
+    {   
+        "title": "Code Quiz",
+        "deployedLink": "https://ra724619.github.io/Code-Quiz/",
+        "githubLink": "https://github.com/ra724619/Code-Quiz",
+        "src": "https://user-images.githubusercontent.com/117188356/223192032-5229db61-a9e0-42ab-84a3-b1e19e64262e.png"
+    },
+    {   
+        "title": "Password Generator",
+        "deployedLink": "https://github.com/ra724619/password-generator",
+        "githubLink": "https://github.com/ra724619/password-generator",
+        "src": "https://user-images.githubusercontent.com/117188356/223192418-f37cb807-8590-4d5f-8e14-cce5224e347e.png"
+    }
+]
