@@ -25,11 +25,11 @@ function ProjectGallery() {
             <p>You can check out the project I worked on:</p>
             {projects.map((project) => (
             <Project
-                key={project.index}
+                key={project.id}
                 title={project.title}
                 deployedLink={project.deployedLink}
                 githubLink={project.githubLink}
-                screenshot={project.screenshot}
+                src={project.src}
             />
             ))}
         </div>
