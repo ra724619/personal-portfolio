@@ -17,7 +17,8 @@
 
   ## Installation
 
-  No installation needed.
+  No installation needed. You can check out the portfolio by this link.
+  https://extraordinary-cranachan-98091f.netlify.app/
 
   ## Usage
 
@@ -55,5 +56,7 @@
   My GitHub username: ra724619
 
   My GitHub link: https://github.com/ra724619
+  
+  My GitHub Repo: https://github.com/ra724619/personal-portfolio
   
   My Contact email: ra724619@gmail.com
